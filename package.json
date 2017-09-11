@@ -1,6 +1,8 @@
 {
   "private": true,
   "name":"create-react-app",
+  "version": "0.1.0",
+  "source-version": "1.0.13",
   "scripts": {
     "build": "node packages/react-scripts/scripts/build.js",
     "changelog": "lerna-changelog",
